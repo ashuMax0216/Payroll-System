@@ -1,2 +1,0 @@
-[2026-04-23 14:18:38] ADD_EMPLOYEE | EMP_ID: EMP1001 | Name: ashish, Designation: manager
-[2026-04-23 14:19:30] PAYSLIP_GENERATED | EMP_ID: EMP1001 | Net Salary: 90850.0
